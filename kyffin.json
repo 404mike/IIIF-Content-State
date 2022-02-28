@@ -17,23 +17,11 @@
       "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624651/manifest.json",
       "@type": "sc:Manifest",
       "label": "Woodcutters"
-    }
-  ],
-  "collections" : [
-    {
-      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624345/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "Kyffin Painting - Face 1"
     },
     {
-      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624342/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "Kyffin Painting - Face 2"
-    },
-    {
-      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624335/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "Kyffin Painting - Face 3"
+      "@id": "https://404mike.github.io/IIIF-Content-State/faces.json",
+      "@type": "sc:Collection",
+      "label": "Faces"
     }
   ]
 }

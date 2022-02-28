@@ -2,7 +2,7 @@
   "@id": "https://404mike.github.io/IIIF-Content-State/faces.json",
   "@type": "sc:Collection",
   "label": "Archives at Wellcome Collection",
-  "members": [
+  "manifests": [
     {
       "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624345/manifest.json",
       "@type": "sc:Manifest",
