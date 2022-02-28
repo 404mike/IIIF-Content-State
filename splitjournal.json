@@ -1,0 +1,177 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://damsssl.llgc.org.uk/iiif/2.0/1423395/manifest.json",
+  "service": {
+    "@context": "http://iiif.io/api/search/0/context.json",
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "https://damsssl.llgc.org.uk/iiif/journals/1423395/search"
+  },
+  "label": "Transactions of the Honourable Society of Cymmrodorion",
+  "metadata": [
+    {
+      "label": [
+        {
+          "@value": "Title",
+          "@language": "en"
+        },
+        {
+          "@value": "Teitl",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": [
+        {
+          "@value": "Transactions of the Honourable Society of Cymmrodorion",
+          "@language": "en"
+        },
+        {
+          "@value": "Trafodion Anrhydeddus Gymdeithas y Cymmrodorion",
+          "@language": "cy-GB"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Issue details",
+          "@language": "en"
+        },
+        {
+          "@value": "Manylion y rhifyn",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": "1990, 1990"
+    },
+    {
+      "label": "",
+      "value": [
+        {
+          "@value": "<a href=\"http://id.library.wales/vtls002985218\">View full catalogue record</a>",
+          "@language": "en"
+        },
+        {
+          "@value": "<a href=\"http://id.llyfrgell.cymru/vtls002985218\">Gweld y cofnod catalog llawn</a>",
+          "@language": "cy-GB"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Permalink",
+          "@language": "en"
+        },
+        {
+          "@value": "Dolen barhaol",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": "<a href=\"http://hdl.handle.net/10107/1423395\">http://hdl.handle.net/10107/1423395</a>"
+    },
+    {
+      "label": [
+        {
+          "@value": "Licence",
+          "@language": "en"
+        },
+        {
+          "@value": "Trwydded",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": [
+        {
+          "@value": "The National Library of Wales has created and published this digital version of the journal under a licence granted by the publisher. The material it contains may be used for all purposes while respecting the moral rights of the creators.",
+          "@language": "en"
+        },
+        {
+          "@value": "Crëwyd a chyhoeddwyd y fersiwn digidol hwn o'r cylchgrawn yn unol â thrwydded a roddwyd gan y cyhoeddwr. Gellir defnyddio'r deunydd ynddo ar gyfer unrhyw bwrpas gan barchu hawliau moesol y crewyr.",
+          "@language": "cy-GB"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Repository",
+          "@language": "en"
+        },
+        {
+          "@value": "Ystorfa",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": [
+        {
+          "@value": "This content has been digitised by The National Library of Wales",
+          "@language": "en"
+        },
+        {
+          "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Genedlaethol Cymru",
+          "@language": "cy-GB"
+        }
+      ]
+    }
+  ],
+  "license": "<a href=\"http://www.llgc.org.uk/index.php?id=8001&L=1\">http://www.llgc.org.uk/index.php?id=8001&L=1</a>",
+  "navDate": "1990-01-01T00:00:00Z",
+  "logo": {
+    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/logo/full/400,/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/logo",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "attribution": "Llyfrgell Genedlaethol Cymru – The National Library of Wales",
+  "seeAlso": {
+    "@id": "https://damsssl.llgc.org.uk/object/llgc-id:1423395",
+    "format": "application/rdf+xml",
+    "profile": "http://www.europeana.eu/schemas/edm/"
+  },
+  "sequences": [
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/1423395/sequence/physical.json",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "paged",
+      "canvases": []
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/1423395/range/AWJCR094001",
+      "@type": "sc:Range",
+      "label": "[front matter]",
+      "canvases": [
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423396.json",
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423397.json",
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423398.json",
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423399.json",
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423400.json",
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423401.json",
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423402.json",
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423403.json",
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423404.json",
+        "https://damsssl.llgc.org.uk/iiif/2.0/1423395/canvas/1423405.json"
+      ],
+      "rendering": {
+        "@id": "https://datasyllwr.llgc.org.uk/journals/pdf/AWJCR094001.pdf",
+        "format": "application/pdf",
+        "label": [
+          {
+            "@value": "Download '[front matter]'",
+            "@language": "en"
+          },
+          {
+            "@value": "Lawrlwytho '[front matter]'",
+            "@language": "cy-GB"
+          }
+        ]
+      }
+    }   
+  ]
+}
