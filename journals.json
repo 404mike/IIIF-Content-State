@@ -4,7 +4,7 @@
   "label": "Archives at Wellcome Collection",
   "manifests": [
     {
-      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/1423395/splitjournal.json",
+      "@id": "https://404mike.github.io/IIIF-Content-State/splitjournal.json",
       "@type": "sc:Manifest",
       "label": "Kyffin - 1990"
     }
