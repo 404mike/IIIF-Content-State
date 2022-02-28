@@ -2,7 +2,6 @@
   "@id": "https://404mike.github.io/IIIF-Content-State/kyffin.json",
   "@type": "sc:Collection",
   "label": "Archives at Wellcome Collection",
-  "type":"Annotation","motivation":"highlighting","target":{"id":"http://dams.llgc.org.uk/iiif/3412212/canvas/3412218#xywh=189,4101,978,685","type":"Canvas","partOf":[{"id":"https://damsssl.llgc.org.uk/iiif/newspaper/issue/3412212/manifest.json","type":"Manifest"}]},
   "manifests": [
     {
       "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4627582/manifest.json",
@@ -30,6 +29,21 @@
       "@id": "https://404mike.github.io/IIIF-Content-State/journals.json",
       "@type": "sc:Collection",
       "label": "Journals"
-    }    
+    },
+    {
+      "type": "Annotation",
+      "label": "Newspaper",
+      "motivation": "highlighting",
+      "target": {
+        "id": "http://dams.llgc.org.uk/iiif/3412212/canvas/3412218#xywh=189,4101,978,685",
+        "type": "Canvas",
+        "partOf": [
+          {
+            "id": "https://damsssl.llgc.org.uk/iiif/newspaper/issue/3412212/manifest.json",
+            "type": "Manifest"
+          }
+        ]
+      }
+    }   
   ]
 }
