@@ -29,21 +29,11 @@
       "@id": "https://404mike.github.io/IIIF-Content-State/journals.json",
       "@type": "sc:Collection",
       "label": "Journals"
-    },
+    },  
     {
-      "type": "Annotation",
-      "label": "Newspaper",
-      "motivation": "highlighting",
-      "target": {
-        "id": "http://dams.llgc.org.uk/iiif/3412212/canvas/3412218#xywh=189,4101,978,685",
-        "type": "Canvas",
-        "partOf": [
-          {
-            "id": "https://damsssl.llgc.org.uk/iiif/newspaper/issue/3412212/manifest.json",
-            "type": "Manifest"
-          }
-        ]
-      }
-    }   
+      "@id": "https://404mike.github.io/IIIF-Content-State/iiif-citation.json",
+      "@type": "sc:Collection",
+      "label": "Newspaper"
+    } 
   ]
 }
