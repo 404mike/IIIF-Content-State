@@ -1,0 +1,22 @@
+{
+  "@id": "https://404mike.github.io/IIIF-Content-State/collection.json",
+  "@type": "sc:Collection",
+  "label": "Archives at Wellcome Collection",
+  "members": [
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4627582/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Kyffin Painting"
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624352/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Farmer at funeral"
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624651/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Woodcutters"
+    }
+  ]
+}
