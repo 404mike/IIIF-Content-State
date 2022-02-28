@@ -1,5 +1,5 @@
 {
-  "@id": "https://404mike.github.io/IIIF-Content-State/collection.json",
+  "@id": "https://404mike.github.io/IIIF-Content-State/kyffin.json",
   "@type": "sc:Collection",
   "label": "Archives at Wellcome Collection",
   "manifests": [
