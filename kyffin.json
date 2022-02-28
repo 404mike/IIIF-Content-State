@@ -17,7 +17,9 @@
       "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624651/manifest.json",
       "@type": "sc:Manifest",
       "label": "Woodcutters"
-    },
+    }
+  ],
+  "collections": [
     {
       "@id": "https://404mike.github.io/IIIF-Content-State/faces.json",
       "@type": "sc:Collection",
