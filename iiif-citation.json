@@ -3,7 +3,7 @@
   "@id": "https://404mike.github.io/IIIF-Content-State/iiif-citation.json",
   "@type": "sc:AnnotationList",
   "label": "Newspaper Mentions",
-  "resources": [
+  "manifest": [
     {
       "type": "Annotation",
       "motivation": "highlighting",
