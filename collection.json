@@ -4,26 +4,6 @@
   "label": "Archives at Wellcome Collection",
   "members": [
     {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/SA/WWP",
-      "@type": "sc:Collection",
-      "label": "'The Widow Welch's Pills'"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/SA/ALR",
-      "@type": "sc:Collection",
-      "label": "Abortion Law Reform Association"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/SA/PGP",
-      "@type": "sc:Collection",
-      "label": "All-Party Parliamentary Group on Population, Development and Reproductive Health"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/MSS.947-950",
-      "@type": "sc:Collection",
-      "label": "Andouille, Jean Baptiste Antoine (1690-1744)"
-    },
-    {
       "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/ART/WIT",
       "@type": "sc:Collection",
       "label": "Arts and Health Witness Seminar"
@@ -37,86 +17,6 @@
       "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/GALTON/2/9/6/6",
       "@type": "sc:Collection",
       "label": "Baby Fingerprints"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/MSS.550, 3083-3086 and 6079-6080",
-      "@type": "sc:Collection",
-      "label": "Bacon Frank Manuscript Collection, and associated material"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/MSS.1030-1031",
-      "@type": "sc:Collection",
-      "label": "Bacstrom, Sigismund"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/MSS.1072-1073",
-      "@type": "sc:Collection",
-      "label": "Barrett, Francis"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/MSS.5958-5963 & 7589-7594",
-      "@type": "sc:Collection",
-      "label": "Barton, Alfred Bowyer (1825-1905), FRCS"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/SA/BCC",
-      "@type": "sc:Collection",
-      "label": "Birth Control Campaign"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/PP/CPB",
-      "@type": "sc:Collection",
-      "label": "Blacker, Carlos Paton FRCP (1895-1975)"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/PP/BOW",
-      "@type": "sc:Collection",
-      "label": "Bowlby, (Edward) John (Mostyn) (1907-1990)"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/SA/BPA",
-      "@type": "sc:Collection",
-      "label": "BPAS, British Pregnancy Advisory Service"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/SA/BMA",
-      "@type": "sc:Collection",
-      "label": "British Medical Association"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/MSS.6915-6927",
-      "@type": "sc:Collection",
-      "label": "British Medical Association Manuscripts"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/RCPSYCH/X1",
-      "@type": "sc:Collection",
-      "label": "Camberwell House Asylum"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/MSS.6220-6221",
-      "@type": "sc:Collection",
-      "label": "Camberwell House Asylum"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/MSS.1456-1499, 6931-6941 & 7920-7941",
-      "@type": "sc:Collection",
-      "label": "Cantlie, Sir James, F.R.C.S. (1851-1926)"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/MSS.5809-5826",
-      "@type": "sc:Collection",
-      "label": "Carter, Henry Vandyke (1831-1897), Deputy Surgeon-General, Indian Medical Service"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/SA/CSP",
-      "@type": "sc:Collection",
-      "label": "Chartered Society of Physiotherapy"
-    },
-    {
-      "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/WMS/Amer.140",
-      "@type": "sc:Collection",
-      "label": "Clah, Arthur Wellington (1831-1916)"
     }
   ]
 }
