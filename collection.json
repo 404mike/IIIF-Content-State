@@ -4,11 +4,6 @@
   "label": "Archives at Wellcome Collection",
   "members": [
     {
-      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4622774/manifest.json",
-      "@type": "sc:Collection",
-      "label": "'Kyffin'"
-    },
-    {
       "@id": "https://iiif.wellcomecollection.org/presentation/v2/collections/archives/SA/ALR",
       "@type": "sc:Collection",
       "label": "Abortion Law Reform Association"
