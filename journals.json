@@ -4,18 +4,9 @@
   "label": "Archives at Wellcome Collection",
   "manifests": [
     {
-      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/1423395/manifest.json",
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/1423395/splitjournal.json",
       "@type": "sc:Manifest",
-      "label": "Kyffin - 1990",
-      "start" : {
-        "id": "https://damsssl.llgc.org.uk/iiif/2.0/1423395/range/AWJCR094006",
-        "type": "canvas"
-      }
-    },
-    {
-      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/2272262/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "Kyffin Williams TEST"
+      "label": "Kyffin - 1990"
     }
   ]
 }
