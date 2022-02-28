@@ -4,7 +4,7 @@
   "label": "Archives at Wellcome Collection",
   "manifests": [
     {
-      "@id": "http://dams.llgc.org.uk/iiif/2.0/1423395/manifest.json",
+      "@id": "https://damssl.llgc.org.uk/iiif/2.0/1423395/manifest.json",
       "@type": "sc:Manifest",
       "label": "Kyffin - 1990"
     },
