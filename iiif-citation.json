@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
   "@id": "https://404mike.github.io/IIIF-Content-State/iiif-citation.json",
   "@type": "sc:AnnotationList",
   "label": "Newspaper Mentions",
