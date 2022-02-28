@@ -1,14 +1,36 @@
 {
-  "type": "Annotation",
-  "motivation": "highlighting",
-  "target": {
-    "id": "http://dams.llgc.org.uk/iiif/3412212/canvas/3412218#xywh=189,4101,978,685",
-    "type": "Canvas",
-    "partOf": [
-      {
-        "id": "https://damsssl.llgc.org.uk/iiif/newspaper/issue/3412212/manifest.json",
-        "type": "Manifest"
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://404mike.github.io/IIIF-Content-State/iiif-citation.json",
+  "@type": "sc:AnnotationList",
+  "label": "Newspaper Mentions",
+  "resources": [
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "target": {
+        "id": "http://dams.llgc.org.uk/iiif/3412212/canvas/3412218#xywh=189,4101,978,685",
+        "type": "Canvas",
+        "partOf": [
+          {
+            "id": "https://damsssl.llgc.org.uk/iiif/newspaper/issue/3412212/manifest.json",
+            "type": "Manifest"
+          }
+        ]
       }
-    ]
-  }
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "target": {
+        "id": "http://dams.llgc.org.uk/iiif/3412212/canvas/3412218#xywh=4659,7680,2130,1330",
+        "type": "Canvas",
+        "partOf": [
+          {
+            "id": "https://damsssl.llgc.org.uk/iiif/newspaper/issue/3412212/manifest.json",
+            "type": "Manifest"
+          }
+        ]
+      }
+    }
+  ]
 }
