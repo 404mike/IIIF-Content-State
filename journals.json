@@ -1,0 +1,22 @@
+{
+  "@id": "https://404mike.github.io/IIIF-Content-State/journals.json",
+  "@type": "sc:Collection",
+  "label": "Archives at Wellcome Collection",
+  "manifests": [
+    {
+      "@id": "http://dams.llgc.org.uk/iiif/2.0/1423395/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Kyffin - 1990"
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/1386666/manifest.json?",
+      "@type": "sc:Manifest",
+      "label": "Transactions of the Honourable Society of Cymmrodorion"
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/1386666/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Kyffin Williams"
+    }
+  ]
+}

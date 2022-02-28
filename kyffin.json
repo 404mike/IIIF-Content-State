@@ -24,6 +24,11 @@
       "@id": "https://404mike.github.io/IIIF-Content-State/faces.json",
       "@type": "sc:Collection",
       "label": "Faces"
-    }
+    },
+    {
+      "@id": "https://404mike.github.io/IIIF-Content-State/journals.json",
+      "@type": "sc:Collection",
+      "label": "Journals"
+    }    
   ]
 }
