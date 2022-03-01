@@ -1,12 +1,13 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "@id": "https://404mike.github.io/IIIF-Content-State/iiif-citation.json",
-  "@type": "sc:AnnotationList",
+  "id": "https://404mike.github.io/IIIF-Content-State/iiif-citation.json", <!-- IIIF 3 renames @id to id -->
+  "type": "AnnotationPage",       <!-- IIIF 3 uses annotation pages: https://iiif.io/api/presentation/3.0/#55-annotation-page rather than annotation lists -->
   "label": "Newspaper Mentions",
-  "manifest": [
+  "items": [
     {
+      "id": "http://example.com/1234", <!-- IIIF 3 recomends every level has an id and type -->
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": ["contentState"], <!-- For contentState they have created a custom motivation and it needs to be a list. -->
       "target": {
         "id": "http://dams.llgc.org.uk/iiif/3412212/canvas/3412218#xywh=189,4101,978,685",
         "type": "Canvas",
@@ -20,7 +21,7 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": ["contentState"], <!-- For contentState they have created a custom motivation and it needs to be a list. -->
       "target": {
         "id": "http://dams.llgc.org.uk/iiif/3412212/canvas/3412218#xywh=4659,7680,2130,1330",
         "type": "Canvas",
