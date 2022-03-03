@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://404mike.github.io/IIIF-Content-State/citation.json",
   "type": "AnnotationPage",
-  "label": "Newspaper Mentions",
+  "label": { "en": [ "Newspaper Mentions" ] },
   "items": [
     {
       "id": "http://example.com/1234", 
