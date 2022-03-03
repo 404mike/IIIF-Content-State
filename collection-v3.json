@@ -26,6 +26,11 @@
       "id": "https://damsssl.llgc.org.uk/iiif/2.0/4624352/manifest.json",
       "type": "Manifest",
       "label": { "en": [ "Example Manifest 2" ] }
+    },
+    {
+      "id": "https://404mike.github.io/IIIF-Content-State/faces.json",
+      "type": "Manifest",
+      "label": { "en": [ "Faces" ] }
     }
   ]
 }
