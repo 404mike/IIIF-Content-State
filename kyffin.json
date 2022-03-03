@@ -23,14 +23,7 @@
     {
       "@id": "https://404mike.github.io/IIIF-Content-State/annotation.json",
       "@type": "sc:Collection",
-      "label": "Annotation Top",
-      "members" : [
-        {
-          "@id": "https://404mike.github.io/IIIF-Content-State/annotation.json",
-          "@type": "sc:Collection",
-          "label": "Annotation"
-        }
-      ]
+      "label": "Annotation Top"
     },
     {
       "@id": "https://404mike.github.io/IIIF-Content-State/faces.json",
