@@ -31,8 +31,8 @@
       "label": { "en": [ "Citations" ] }
     },
     {
-      "id": "https://404mike.github.io/IIIF-Content-State/splitjournal.json",
-      "type": "Collection",
+      "id": "https://404mike.github.io/IIIF-Content-State/splitjournal-v3.json",
+      "type": "Manifest",
       "label": { "en": [ "Journals" ] }
     }
   ]
