@@ -1,11 +1,11 @@
 {
-  "context": "http://iiif.io/api/presentation/2/context.json",
-  "type": "sc:Manifest",
-  "id": "https://404mike.github.io/IIIF-Content-State/splitjournal-v3.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://404mike.github.io/IIIF-Content-State/splitjournal-v3.json",
   "service": {
-    "context": "http://iiif.io/api/search/0/context.json",
+    "@context": "http://iiif.io/api/search/0/context.json",
     "profile": "http://iiif.io/api/search/0/search",
-    "id": "https://damsssl.llgc.org.uk/iiif/journals/1423395/search"
+    "@id": "https://damsssl.llgc.org.uk/iiif/journals/1423395/search"
   },
   "label": { "en": [ "Journal Mentions" ] },
   "metadata": [
