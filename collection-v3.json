@@ -29,6 +29,11 @@
       "id": "https://404mike.github.io/IIIF-Content-State/citation.json",
       "type": "Collection",
       "label": { "en": [ "Citations" ] }
+    },
+    {
+      "id": "https://404mike.github.io/IIIF-Content-State/splitjournal.json",
+      "type": "Collection",
+      "label": { "en": [ "Journals" ] }
     }
   ]
 }
