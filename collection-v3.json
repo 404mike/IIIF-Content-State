@@ -24,6 +24,11 @@
       "id": "https://404mike.github.io/IIIF-Content-State/faces-v3.json",
       "type": "Collection",
       "label": { "en": [ "Faces" ] }
+    },
+    {
+      "id": "https://404mike.github.io/IIIF-Content-State/citation-v3.json",
+      "type": "Collection",
+      "label": { "en": [ "Citations" ] }
     }
   ]
 }
