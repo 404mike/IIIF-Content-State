@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://404mike.github.io/IIIF-Content-State/faces-v3.json",
+  "type": "Collection",
+  "label": { "en": [ "Collection for Example Organization" ] },
+  "summary": { "en": [ "Short summary of the Collection" ] },
+  "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "Provided by Example Organization" ] }
+  },
+
+  "items": [
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/4624345/manifest.json",
+      "type": "Manifest",
+      "label": { "en": [ "Example face 1" ] }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/4624342/manifest.json",
+      "type": "Manifest",
+      "label": { "en": [ "Example face 2" ] }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/4624335/manifest.json",
+      "type": "Manifest",
+      "label": { "en": [ "Example face 2" ] }
+    }
+  ]
+}

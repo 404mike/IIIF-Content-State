@@ -28,7 +28,7 @@
       "label": { "en": [ "Example Manifest 2" ] }
     },
     {
-      "id": "https://404mike.github.io/IIIF-Content-State/faces.json",
+      "id": "https://404mike.github.io/IIIF-Content-State/faces-v3.json",
       "type": "Manifest",
       "label": { "en": [ "Faces" ] }
     }
