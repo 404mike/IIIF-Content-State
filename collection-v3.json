@@ -13,14 +13,7 @@
     {
       "id": "https://damsssl.llgc.org.uk/iiif/2.0/4627582/manifest.json",
       "type": "Manifest",
-      "label": { "en": [ "Example Manifest 1" ] },
-      "thumbnail": [
-        {
-          "id": "https://example.org/manifest1/thumbnail.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ]
+      "label": { "en": [ "Example Manifest 1" ] }
     },
     {
       "id": "https://damsssl.llgc.org.uk/iiif/2.0/4624352/manifest.json",
@@ -29,7 +22,7 @@
     },
     {
       "id": "https://404mike.github.io/IIIF-Content-State/faces-v3.json",
-      "type": "Manifest",
+      "type": "Collection",
       "label": { "en": [ "Faces" ] }
     }
   ]
