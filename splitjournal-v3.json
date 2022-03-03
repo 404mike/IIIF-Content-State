@@ -1,7 +1,7 @@
 {
   "context": "http://iiif.io/api/presentation/2/context.json",
   "type": "sc:Manifest",
-  "id": "https://404mike.github.io/IIIF-Content-State/splitjournal.json",
+  "id": "https://404mike.github.io/IIIF-Content-State/splitjournal-v3.json",
   "service": {
     "context": "http://iiif.io/api/search/0/context.json",
     "profile": "http://iiif.io/api/search/0/search",
