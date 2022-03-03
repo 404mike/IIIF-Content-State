@@ -5,6 +5,7 @@
   "label": { "en": [ "Newspaper Mentions" ] },
   "items": [
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "http://example.com/1234", 
       "type": "Annotation",
       "motivation": ["contentState"],
@@ -20,6 +21,7 @@
       }
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id" : "http://example.com/1235",
       "type": "Annotation",
       "motivation": ["contentState"],
