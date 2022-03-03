@@ -21,7 +21,7 @@
   ],
   "collections": [
     {
-      "collections" : [
+      "members" : [
         {
           "@id": "https://404mike.github.io/IIIF-Content-State/annotation.json",
           "@type": "sc:Collection",
