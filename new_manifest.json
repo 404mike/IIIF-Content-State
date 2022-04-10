@@ -1,0 +1,112 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2092910\/manifest.json",
+    "@type": "sc:Collection",
+    "label": "Bye-gones",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Bye-gones relating to Wales and the border counties"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Published and printed by Woodhall, Minshall, Thomas and Company, Oswestry.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddwyd ac argraffwyd gan gwmni Woodhall, Minshall a Thomas, Croesoswallt.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Annual"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "A quarterly antiquarian periodical that covered Wales and the border counties and published antiquarian articles that had originally appeared in the Oswestry Advertizer and Border Counties Herald. The periodical was edited by the antiquarian, author and journalist, John Askew Roberts (1826-1884), who had also served a the Advertizer's editor. Amongst the periodical's main contributors was the antiquarian William Wynne (1808-1880), Peniarth.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn hynafiaethol chwarterol ar Gymru a'r Gororau a oedd yn ailgyhoeddi erthyglau hynafiaethol oedd wedi ymddangos cyntaf yn yr Oswestry Advertizer and Border Counties Herald. Golygwyd y cylchgrawn gan yr hynafiaethydd, awdur a newyddiadurwr, John Askew Roberts (1826-1884) a oedd hefyd wedi bod yn olygydd i'r Advertizer. Ymhlith prif gyfranwyr y cylchgrawn oedd yr hynafiaethydd William Wynne (1801-1880), Peniarth.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2092910",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2092910\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2093726\/manifest.json",
+        "@type": "sc:Manifest",
+        "navDate": "1876-10-01T00:00:00Z",
+        "license": "https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/",
+        "label": "October 1876"
+    },
+    "members": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2093726\/manifest.json",
+        "@type": "sc:Manifest",
+        "navDate": "1876-10-01T00:00:00Z",
+        "license": "https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/",
+        "label": "October 1876"
+    }
+}
