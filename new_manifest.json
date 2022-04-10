@@ -95,18 +95,22 @@
         "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2092910\/search",
         "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
     },
-    "manifests": {
-        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2093726\/manifest.json",
-        "@type": "sc:Manifest",
-        "navDate": "1876-10-01T00:00:00Z",
-        "license": "https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/",
-        "label": "October 1876"
-    },
-    "members": {
-        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2093726\/manifest.json",
-        "@type": "sc:Manifest",
-        "navDate": "1876-10-01T00:00:00Z",
-        "license": "https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/",
-        "label": "October 1876"
-    }
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2093726\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1876-10-01T00:00:00Z",
+            "license": "https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/",
+            "label": "October 1876"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2093726\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1876-10-01T00:00:00Z",
+            "license": "https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/",
+            "label": "October 1876"
+        }
+    ]
 }
